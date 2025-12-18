@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a passionate and driven Computer Science student with a strong foundation in programming, web development, and software engineering. With hands-on experience in Java, Python, Django, React, and Next.js, I have developed projects like a Gym Management System and Pinbox, a dashboard for team management. I have also interned at Hackveda Limited, where I worked on stock data analysis in Java and web development features.<br><br>As an active participant in Smart India Hackathon (2023, 2024) and a Placement Director at my college, I thrive in problem-solving and collaboration. My goal is to pursue an MS in Computer Science and grow into a Software Development Engineer (SDE).
+BCA graduate with hands-on experience in Web Development, application security and Networking. Proficient in
+Windows/Linux environments, security best practices, and DevOps workflows. Demonstrated ability to implement security
+headers, containerization, and cloud deployments while debugging complex technical issues across web applications and
+infrastructure.
+.
 
 
 ## 🌐 Socials:
